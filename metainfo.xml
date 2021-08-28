@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="A04F9B51-ABFA-4008-B0E6-1EC48B03C0A3" version="0">
+	<info>
+		<title>2021-08-28 Malola Education Online Exam-39 Level II Mains</title>
+		<description/>
+	</info>
+	<files index="id26" thumbnail="id22" totalSize="4126103">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/html5.png</file>
+		<file id="id10">data/images/img-51bf9a610f9cf301df6a3960f96ad5b5c1a8f333.PNG</file>
+		<file id="id11">data/images/img-5f3ca92282e6686164cea69ce0b27153b94742e9.PNG</file>
+		<file id="id12">data/images/img-636465ff076799c0f2f738f0312e87c298419b51.PNG</file>
+		<file id="id13">data/images/img-7b33cc96659360ca8950b97d9a887fc4da4d3f71.PNG</file>
+		<file id="id14">data/images/img-9d721995028b142a717dc785ba54602b636a502c.jpg</file>
+		<file id="id15">data/images/img-ac618c34ad5ed9ba79e6e3e05714e7d88bd38a38.PNG</file>
+		<file id="id16">data/images/img-c728864a17776de23d1110419a47d5156b6432e0.PNG</file>
+		<file id="id17">data/images/img-e1dbc0b6b5502708b34f83315f0b5ab462913877.PNG</file>
+		<file id="id18">data/images/img-e7d86a740dd74bff67a926145a09f8e49f081ff6.jpg</file>
+		<file id="id19">data/images/img-f24d26c550e8f1ca9c2b189355531ec2e1ccf6a9.jpg</file>
+		<file id="id20">data/ismplayer/app_store2x.png</file>
+		<file id="id21">data/ismplayer/play.svg</file>
+		<file id="id22">data/ismplayer/preview.png</file>
+		<file id="id23">data/ismplayer/style.css</file>
+		<file id="id24">data/ismplayer/style_mini.css</file>
+		<file id="id25">data/player.js</file>
+		<file id="id26">index.html</file>
+		<file id="id27">ismplayer.html</file>
+		<file id="id28">preview.png</file>
+	</files>
+</presentation>
+
